@@ -2,9 +2,9 @@
 
 Frontend and full-stack engineer in Los Angeles. React, Node and GraphQL, with a background in fintech UI, accessibility, internationalization and compliance workflows.
 
-I was UI and UX lead for the frontend team at Yapstone, a B2B payments company for rental marketplaces: partner onboarding, admin and merchant support portals, and an npm module for asset onboarding. Since 2022 I have done independent consulting: self-hosted stacks in Docker, OAuth 2.0 and Bash automation.
+I was Senior Frontend Engineer and UX and UI lead for the frontend team at Yapstone (2018 to 2019), a B2B payments company for rental marketplaces: partner onboarding, admin and merchant support portals, and an npm module for asset onboarding. From 2008 to 2022 I was a contract frontend engineer for a charter-school staffing company, where site redesigns drove 16x traffic growth. Since 2022 I have done independent consulting: self-hosted stacks in Docker, OAuth 2.0 and Bash automation. 
 
-That earlier work was in private company repositories, so it is not here. What is here is public work from 2018 coursework (forks), and a new project I am preparing to publish.
+That earlier work was in private company repositories, so it is not here. What is here is public work from 2018 coursework (forks).
 
 ## What I'm working on now
 
@@ -12,11 +12,7 @@ Multi-agent tooling in Python and SQLite: approval gates, a commit gate that blo
 
 ## Stack
 
-- Front end: React, JavaScript, HTML, CSS, accessibility (WCAG), Material UI
+- Front end: React, Redux, JavaScript, HTML, CSS, accessibility (WCAG), Material UI
+- AI & agentic: Multi-agent orchestration, approval gates, and test harnesses (Claude Code, Gemini, Antigravity)
 - Back end: Node.js, Express, REST, GraphQL (Apollo), Python
 - Data and ops: MySQL, MongoDB, SQLite, Docker, OAuth 2.0, Git, CI/CD, Jest and Mocha
-- Learning: TypeScript and the Next.js App Router (through master.dev courses)
-
-## Contact
-
-[linkedin.com/in/HeshLondon](https://linkedin.com/in/HeshLondon)
