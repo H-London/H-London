@@ -19,4 +19,4 @@ Multi-agent tooling in Python and SQLite: approval gates, a commit gate that blo
 
 ## Contact
 
-heshlondon.com | linkedin.com/in/HeshLondon
+[linkedin.com/in/HeshLondon](https://linkedin.com/in/HeshLondon)
